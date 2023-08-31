@@ -1,0 +1,8 @@
+Statistics: 
+Simulation Time: 10.630027499981225 seconds
+Agent Data:
+IA0_bb2fb222-f2a3-416a-ab79-a7e861db135fBlocks Visited: 43| Knowledge Exchanges: 0
+IA1_c1b6e622-efc8-4c90-ad5a-4a5e6c37d307Blocks Visited: 80| Knowledge Exchanges: 0
+IA4_25870cd6-0926-4440-839f-3ad1702e6d0eBlocks Visited: 84| Knowledge Exchanges: 0
+IA2_850d6438-0712-4ac2-bd9d-0d25bf6d326eBlocks Visited: 89| Knowledge Exchanges: 0
+IA3_b884faa4-bdcc-489e-9035-06bf88926c02Blocks Visited: 81| Knowledge Exchanges: 0
